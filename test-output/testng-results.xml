@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="221415" started-at="2015-09-27T22:55:00Z" finished-at="2015-09-27T22:58:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="221415" started-at="2015-09-27T22:55:00Z" finished-at="2015-09-27T22:58:41Z">
+      <class name="com.homework.walmart.MacChromeTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.homework.walmart.MacChromeTest@6debcae2]" name="init" is-config="true" duration-ms="7752" started-at="2015-09-27T15:55:00Z" finished-at="2015-09-27T15:55:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addItemToCart(java.lang.String)[pri:0, instance:com.homework.walmart.MacChromeTest@6debcae2]" name="addItemToCart" duration-ms="24397" started-at="2015-09-27T15:55:08Z" data-provider="Search terms" finished-at="2015-09-27T15:55:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToCart -->
+        <test-method status="PASS" signature="addItemToCart(java.lang.String)[pri:0, instance:com.homework.walmart.MacChromeTest@6debcae2]" name="addItemToCart" duration-ms="54072" started-at="2015-09-27T15:55:32Z" data-provider="Search terms" finished-at="2015-09-27T15:56:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[socks]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToCart -->
+        <test-method status="PASS" signature="addItemToCart(java.lang.String)[pri:0, instance:com.homework.walmart.MacChromeTest@6debcae2]" name="addItemToCart" duration-ms="51459" started-at="2015-09-27T15:56:26Z" data-provider="Search terms" finished-at="2015-09-27T15:57:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dvd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToCart -->
+        <test-method status="PASS" signature="addItemToCart(java.lang.String)[pri:0, instance:com.homework.walmart.MacChromeTest@6debcae2]" name="addItemToCart" duration-ms="30213" started-at="2015-09-27T15:57:18Z" data-provider="Search terms" finished-at="2015-09-27T15:57:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[toys]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToCart -->
+        <test-method status="PASS" signature="addItemToCart(java.lang.String)[pri:0, instance:com.homework.walmart.MacChromeTest@6debcae2]" name="addItemToCart" duration-ms="52853" started-at="2015-09-27T15:57:48Z" data-provider="Search terms" finished-at="2015-09-27T15:58:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iPhone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToCart -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.homework.walmart.MacChromeTest@6debcae2]" name="exit" is-config="true" duration-ms="652" started-at="2015-09-27T15:58:41Z" finished-at="2015-09-27T15:58:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.homework.walmart.MacChromeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
